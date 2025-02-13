@@ -18,7 +18,7 @@ export default async function PostDetailsPage({ params }) {
 
 	let loadingJSX = (
 		<div>
-			<h1>Loading... !!!</h1>
+			<h1>Wait...</h1>
 		</div>
 	);
 
